@@ -1,15 +1,15 @@
 {
-  "main.css": "/gitcourse/static/css/main.7c40aa0d.chunk.css",
-  "main.js": "/gitcourse/static/js/main.5de74d37.chunk.js",
-  "main.js.map": "/gitcourse/static/js/main.5de74d37.chunk.js.map",
-  "runtime~main.js": "/gitcourse/static/js/runtime~main.17052c58.js",
-  "runtime~main.js.map": "/gitcourse/static/js/runtime~main.17052c58.js.map",
-  "static/css/2.98633c37.chunk.css": "/gitcourse/static/css/2.98633c37.chunk.css",
-  "static/js/2.3f2650c5.chunk.js": "/gitcourse/static/js/2.3f2650c5.chunk.js",
-  "static/js/2.3f2650c5.chunk.js.map": "/gitcourse/static/js/2.3f2650c5.chunk.js.map",
-  "index.html": "/gitcourse/index.html",
-  "precache-manifest.8b997192339daa4e1c4ec47a4a5843ae.js": "/gitcourse/precache-manifest.8b997192339daa4e1c4ec47a4a5843ae.js",
-  "service-worker.js": "/gitcourse/service-worker.js",
-  "static/css/2.98633c37.chunk.css.map": "/gitcourse/static/css/2.98633c37.chunk.css.map",
-  "static/css/main.7c40aa0d.chunk.css.map": "/gitcourse/static/css/main.7c40aa0d.chunk.css.map"
+  "main.css": "/static/css/main.7c40aa0d.chunk.css",
+  "main.js": "/static/js/main.e04244d9.chunk.js",
+  "main.js.map": "/static/js/main.e04244d9.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.98633c37.chunk.css": "/static/css/2.98633c37.chunk.css",
+  "static/js/2.6b181d7c.chunk.js": "/static/js/2.6b181d7c.chunk.js",
+  "static/js/2.6b181d7c.chunk.js.map": "/static/js/2.6b181d7c.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.b9b01fd43a4b702c5db224fec44a5ce2.js": "/precache-manifest.b9b01fd43a4b702c5db224fec44a5ce2.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.98633c37.chunk.css.map": "/static/css/2.98633c37.chunk.css.map",
+  "static/css/main.7c40aa0d.chunk.css.map": "/static/css/main.7c40aa0d.chunk.css.map"
 }
